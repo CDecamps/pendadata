@@ -1,0 +1,19 @@
+Package: pendadata
+Type: Package
+Title: A set of data dedicated to the panda R package
+Description: The `pendadata` package provides datasets dedicated to the `panda` R package. 
+Version: 0.0.0.9000
+Date: 2017-08-14
+Authors@R: c(
+    person("Magali", "Richard", , "magali.richard@univ-grenoble-alpes.fr", c("aut", "cre")),
+    person("Florent", "Chuffart", , "florent.chuffart@gmail.com", "aut"),
+    person("Daniel", "Jost", ,"daniel.jost@univ-grenoble-alpes.fr", "aut")
+    )
+Maintainer: Magali Richard <magali.richard@univ-grenoble-alpes.fr>
+License: CeCILL
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Depends: R(>= 2.10.0)
+
+
+
